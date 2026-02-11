@@ -1,0 +1,40 @@
+{
+  "markets": [
+    {
+      "market_id": "MOCK-SPX-14-5000",
+      "title": "SPX above 5000 at 2:00pm ET?",
+      "target_time_et": "14:00",
+      "threshold_spx": 5000,
+      "mid": 0.54,
+      "yes_bid": 0.53,
+      "yes_ask": 0.55
+    },
+    {
+      "market_id": "MOCK-SPX-14-5050",
+      "title": "SPX above 5050 at 2:00pm ET?",
+      "target_time_et": "14:00",
+      "threshold_spx": 5050,
+      "mid": 0.33,
+      "yes_bid": 0.32,
+      "yes_ask": 0.34
+    },
+    {
+      "market_id": "MOCK-SPX-15-5025",
+      "title": "SPX above 5025 at 3:00pm ET?",
+      "target_time_et": "15:00",
+      "threshold_spx": 5025,
+      "mid": 0.39,
+      "yes_bid": 0.38,
+      "yes_ask": 0.40
+    },
+    {
+      "market_id": "MOCK-SPX-16-5000",
+      "title": "SPX above 5000 at 4:00pm ET?",
+      "target_time_et": "16:00",
+      "threshold_spx": 5000,
+      "mid": 0.58,
+      "yes_bid": 0.57,
+      "yes_ask": 0.59
+    }
+  ]
+}
